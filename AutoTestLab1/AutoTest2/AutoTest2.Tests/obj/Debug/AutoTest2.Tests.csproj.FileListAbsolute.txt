@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\AutoTest2.Tests.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\AutoTest2.Tests.pdb
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\AutoTest2.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\AutoTest2.pdb
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\ru\Microsoft.Pex.Framework.resources.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\bin\Debug\ru\Microsoft.ExtendedReflection.resources.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\obj\Debug\AutoTest2.Tests.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\obj\Debug\AutoTest2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\obj\Debug\AutoTest2.Tests.csproj.CopyComplete
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\obj\Debug\AutoTest2.Tests.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2.Tests\obj\Debug\AutoTest2.Tests.pdb

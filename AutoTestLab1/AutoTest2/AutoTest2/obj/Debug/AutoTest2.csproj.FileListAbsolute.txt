@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\AutoTest2\AutoTest2\bin\Debug\AutoTest2.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2\bin\Debug\AutoTest2.pdb
+C:\Users\user\Desktop\AutoTest2\AutoTest2\obj\Debug\AutoTest2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AutoTest2\AutoTest2\obj\Debug\AutoTest2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AutoTest2\AutoTest2\obj\Debug\AutoTest2.dll
+C:\Users\user\Desktop\AutoTest2\AutoTest2\obj\Debug\AutoTest2.pdb
